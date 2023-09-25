@@ -1,0 +1,14 @@
+import { Component } from '@angular/core';
+import { CommonModule } from '@angular/common';
+
+@Component({
+  selector: 'demo-placeholder',
+  standalone: true,
+  imports: [CommonModule],
+  template: ``,
+  styles: [
+  ]
+})
+export class DemoPlaceholderComponent {
+
+}
